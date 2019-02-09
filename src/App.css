@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  height: 100%;
+}
+.main-layout{
+  /* background-color: #666; */
+  width: 100%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.lay1{
+   width: 70%;
+   margin-left: 10%;
+   float: left;
+}
+.titles{
+  /* padding-left: 2%; */
+    text-align: center;
+    font-weight: 600;
+    font-size: 8rem;
+}
+.subtitles{
+  text-align: center;
+  font-weight: 600;
+  font-size: 5rem;
+}
